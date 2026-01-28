@@ -6,6 +6,6 @@
   - *Воронка продаж*: Конверсия из просмотра товара в корзину и из корзины в покупку
   - *Лучшие товары*: Топ товаров по популярности просмотра и по выручке
 
-<img width="1193" height="1193" alt="изображение" src="https://github.com/user-attachments/assets/29af638e-4e06-4cd5-be7b-b0e7bdbb232a"/>
+![e-com dashboard](https://github.com/bivba/ecom-analysis/blob/main/dashboarb-preview.png)
 
-*(Полная версия в [pdf-файле](Metabase - DAILY METRICS-3.pdf))*
+*(Полная версия в [pdf-файле](https://github.com/bivba/ecom-analysis/blob/main/Metabase%20-%20DAILY%20METRICS-3.pdf))*
